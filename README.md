@@ -2,7 +2,7 @@
  ![1720019780709](https://github.com/user-attachments/assets/23f2b2d0-46ca-4d6f-939a-17283fef28e4)
 
  
-<h1 align="center">Hi 👋, I'm RONY RIMAN</h1>
+<h1 align="center">Hi 👋 I'm RONY RIMAN</h1>
 <h3 align="center">Mern Stack Developer. Computer Engineer.. Web Developer</h3>
 <h1 align="center">About Me</h1>
 <p align="center">I,m a designer & developer with a passion for web design. I enjoy developing simple, clean and slick websites that provide real value to the end user. Thousands of clients have procured exceptional resulfs while working with me. Delivering work within time and budget which meets clients requirements in our mata.
