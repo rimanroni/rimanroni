@@ -41,5 +41,8 @@ I have skills in React, including building components, managing state, handling 
 <p></p>
 <a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rimanroni&hide_border=true&type=png" alt="GitHub Streak" /></a>
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 
 
